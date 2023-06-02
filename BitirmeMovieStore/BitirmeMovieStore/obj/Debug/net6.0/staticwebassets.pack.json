@@ -1,0 +1,597 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BitirmeMovieStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BitirmeMovieStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\00ec8dca-07da-459f-909b-14e5b8d2883a.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\00ec8dca-07da-459f-909b-14e5b8d2883a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\04eae821-ba3b-439f-bed1-c1a5df82cf3a.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\04eae821-ba3b-439f-bed1-c1a5df82cf3a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\19927074-5dc3-49b0-9966-e8198f9ff0b6.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\19927074-5dc3-49b0-9966-e8198f9ff0b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\2be84ad9-c286-4e6e-92a2-c6eb0bf9cc9e.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\2be84ad9-c286-4e6e-92a2-c6eb0bf9cc9e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\38665499-ff03-4174-90af-1251a5aea306.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\38665499-ff03-4174-90af-1251a5aea306.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\40ef12d8-a589-4bcd-8988-0dcc5fed2d00.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\40ef12d8-a589-4bcd-8988-0dcc5fed2d00.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\4163342d-2edb-4bb8-9e39-8fb0c03b3701.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4163342d-2edb-4bb8-9e39-8fb0c03b3701.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\48c7a000-4a6e-428c-b951-f8df4c79ac22.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\48c7a000-4a6e-428c-b951-f8df4c79ac22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\4b74fd75-6db6-448b-81bd-1eebd31788c0.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4b74fd75-6db6-448b-81bd-1eebd31788c0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\4c8483ec-9dc8-44f7-89ec-846801778097.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4c8483ec-9dc8-44f7-89ec-846801778097.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\4e5dacbc-a600-4c0d-91be-df144720c232.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4e5dacbc-a600-4c0d-91be-df144720c232.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\51dfc9de-746b-4185-a764-0f2d4b57c5bf.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\51dfc9de-746b-4185-a764-0f2d4b57c5bf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\526d7d20-8904-46fa-9788-fd46cb557e7e.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\526d7d20-8904-46fa-9788-fd46cb557e7e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\596f4981-34d0-47c2-8f8f-4b522e9fc8ee.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\596f4981-34d0-47c2-8f8f-4b522e9fc8ee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\5dd8f3cb-0c14-4faa-a804-c680d9874608.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\5dd8f3cb-0c14-4faa-a804-c680d9874608.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\6806b53b-93a5-41ff-8df1-2808fd4dd68d.png",
+      "PackagePath": "staticwebassets\\Uploads\\6806b53b-93a5-41ff-8df1-2808fd4dd68d.png"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\7d8dcd01-71bd-4301-ad93-680016045df2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\7d8dcd01-71bd-4301-ad93-680016045df2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\80a230e7-626b-40d4-ba53-433cd768894d.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\80a230e7-626b-40d4-ba53-433cd768894d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\83189d5c-f464-4585-b9b4-9622b96c90d0.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\83189d5c-f464-4585-b9b4-9622b96c90d0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\90c3b9c2-d557-4965-bbd3-11d499d5a65d.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\90c3b9c2-d557-4965-bbd3-11d499d5a65d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\9a504a0c-f126-421c-844d-8878e77850f0.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\9a504a0c-f126-421c-844d-8878e77850f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\a098e8e0-e4a8-40b1-90ff-4191fc64df5e.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a098e8e0-e4a8-40b1-90ff-4191fc64df5e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\a449eba4-4314-40ed-ab3d-0622fb720c73.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a449eba4-4314-40ed-ab3d-0622fb720c73.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\a6e75711-f33e-4928-a690-cc81bfc96c25.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a6e75711-f33e-4928-a690-cc81bfc96c25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\aaa78401-6d9c-48c4-af34-e00e55afeab0.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\aaa78401-6d9c-48c4-af34-e00e55afeab0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\ac135caf-6edc-4e22-896a-26a489c86956.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ac135caf-6edc-4e22-896a-26a489c86956.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\b7ceb428-d854-4665-a483-453c8b98674e.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\b7ceb428-d854-4665-a483-453c8b98674e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\bcd9cc73-5538-4aa5-91b0-4c504403ddc2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\bcd9cc73-5538-4aa5-91b0-4c504403ddc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\becfaf6c-ff9a-487a-83bd-6ccbdb8c1bfa.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\becfaf6c-ff9a-487a-83bd-6ccbdb8c1bfa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\bf209661-8fd8-4b99-906e-8e99550e5eac.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\bf209661-8fd8-4b99-906e-8e99550e5eac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\c85ce4f4-2222-4105-8cf2-3484838cd618.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\c85ce4f4-2222-4105-8cf2-3484838cd618.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\e70eef8b-6302-4e37-8f68-0574d6d23fcf.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\e70eef8b-6302-4e37-8f68-0574d6d23fcf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\ec287469-a240-461b-b155-c9d7a5a07e9e.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ec287469-a240-461b-b155-c9d7a5a07e9e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\ece800e3-978a-4eef-859a-ca1d09af5ae4.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ece800e3-978a-4eef-859a-ca1d09af5ae4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\Uploads\\f633f644-20a3-4d39-9e73-62bed50451eb.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f633f644-20a3-4d39-9e73-62bed50451eb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\toastrjs\\toastr.css",
+      "PackagePath": "staticwebassets\\lib\\toastrjs\\toastr.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\toastrjs\\toastr.js.map",
+      "PackagePath": "staticwebassets\\lib\\toastrjs\\toastr.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\toastrjs\\toastr.min.css",
+      "PackagePath": "staticwebassets\\lib\\toastrjs\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ensar\\source\\repos\\BitirmeMovieStore\\BitirmeMovieStore\\wwwroot\\lib\\toastrjs\\toastr.min.js",
+      "PackagePath": "staticwebassets\\lib\\toastrjs\\toastr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BitirmeMovieStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BitirmeMovieStore.props",
+      "PackagePath": "build\\BitirmeMovieStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BitirmeMovieStore.props",
+      "PackagePath": "buildMultiTargeting\\BitirmeMovieStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BitirmeMovieStore.props",
+      "PackagePath": "buildTransitive\\BitirmeMovieStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
